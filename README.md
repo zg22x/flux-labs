@@ -57,7 +57,7 @@ I built this project to practice:
 
 ## Screenshots
 
-![Flux Labs Screenshot](scr/scr1.png)
+![Flux Labs Screenshot](src/scr1.png)
 
 ![Flux Labs Screenshot](scr/scr2.png)
 
