@@ -8,7 +8,7 @@ Flux Labs is a modern web and app development agency website designed to showcas
 
 The website presents the agency's services, development process, and contact information in a visually engaging interface.
 
-![Website Screenshot](flux-labs/scr/gb.png)
+![Homepage](./Flux%20labs/scr/scr1.png)
 
 ## Purpose of the Project
 
@@ -57,9 +57,9 @@ I built this project to practice:
 
 ## Screenshots
 
-![Flux Labs Screenshot](src/scr1.png)
+![Services](./Flux%20labs/scr/scr2.png)
 
-![Flux Labs Screenshot](src/scr2.png)
+![Services](./Flux%20labs/scr/gb.png)
 
 ## What I Learned
 
