@@ -8,7 +8,7 @@ Flux Labs is a modern web and app development agency website designed to showcas
 
 The website presents the agency's services, development process, and contact information in a visually engaging interface.
 
-![Website Screenshot](scr/gb.png)
+![Website Screenshot](flux-labs/scr/gb.png)
 
 ## Purpose of the Project
 
