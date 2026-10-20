@@ -1,6 +1,6 @@
 # Flux Labs
 
-![Flux Labs](./Flux%20labs/scr/gb.png)
+![Flux Labs](./Flux%20labs/web/flux_labs.png)
 
 **Flux Labs — We build what moves your business.**
 
